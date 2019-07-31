@@ -1,0 +1,33 @@
+﻿Gender,District,Party,Name,Twitter Account,Winner/Loser,Partisan Change,Running for
+Female,Arizona,Democrat,Kyrsten Sinema,@kyrstensinema,Winner,Yes,Senate
+Female,California,Democrat,Dianne Feinstein,@DianneFeinstein,Winner,No,Senate
+Male,Florida,Republican,Rick Scott,@ScottforFlorida,Winner,Yes,Senate
+Male,Indiana,Republican,Mike Braun,@braun4indiana,Winner,Yes,Senate
+Female,Minnesota (special),Democrat,Tina Smith,@TinaSmithMN,Winner,No,Senate
+Male,Missouri,Republican,Josh Hawley,@HawleyMO,Winner,Yes,Senate
+Female,Mississippi (special),Republican,Cindy Hyde-Smith,@cindyhydesmith,Winner,No,Senate
+Male,Montana,Democrat,Jon Tester,@jontester,Winner,No,Senate
+Male,North Dakota,Republican,Kevin Cramer,@kevincramer,Winner,Yes,Senate
+Male,New Jersey,Democrat,Bob Menendez,@SenatorMenendez,Winner,No,Senate
+Male,New Mexico,Democrat,Martin Heinrich,@TeamHeinrich,Winner,No,Senate
+Male,Nevada,Democrat,Jacky Rosen,@RepJackyRosen,Winner,Yes,Senate
+Male,Ohio,Democrat,Sherrod Brown,@SherrodBrown,Winner,No,Senate
+Female,Tennessee,Republican,Marsha Blackburn,@VoteMarsha,Winner,No,Senate
+Male,Texas,Republican,Ted Cruz,@tedcruz,Winner,No,Senate
+Male,West Virginia,Democrat,Joe Manchin,@JoeManchinWV,Winner,No,Senate
+Female,Arizona,Republican,Martha McSally,@MarthaMcSally,Loser,Yes,Senate
+Male,California,Democrat,Kevin de Leon,@kdeleon,Loser,No,Senate
+Male,Florida,Democrat,Bill Nelson,@NelsonForSenate,Loser,Yes,Senate
+Male,Indiana,Democrat,Joe Donnelly,@SenDonnelly,Loser,Yes,Senate
+Female,Minnesota (special),Republican,Karina Housley,@KarinHousley,Loser,No,Senate
+Female,Missouri,Democrat,Claire McCaskill,@clairecmc,Loser,Yes,Senate
+Male,Mississippi (special),Democrat,Mike Espy,@espyforsenate,Loser,No,Senate
+Male,Montana,Republican,Matt Rosendale,@MattForMontana,Loser,No,Senate
+Female,North Dakota,Democrat,Heidi Heitkamp,@HeidiHeitkamp,Loser,Yes,Senate
+Male,New Jersey,Republican,Bob Hugin,@BobHugin,Loser,No,Senate
+Male,New Mexico,Republican,Mick Rich,@MickRich4Senate,Loser,No,Senate
+Male,Nevada,Republican,Dean Heller,@SenDeanHeller,Loser,Yes,Senate
+Male,Ohio,Republican,Jim Renacci,@JimRenacci,Loser,No,Senate
+Male,Tennessee,Democrat,Phil Bredesen ,@PhilBredesen,Loser,No,Senate
+Male,Texas,Democrat,Beto O'Rourke,@BetoORourke,Loser,No,Senate
+Male,West Virginia,Republican,Patrick Morrisey,@MorriseyWV,Loser,No,Senate
